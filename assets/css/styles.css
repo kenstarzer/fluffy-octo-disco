@@ -14,6 +14,8 @@ background-size: cover;
 color: whitesmoke;
 font-size: 5rem;
 overflow: hidden;
+transition-property: transform;
+transition-duration: 13s;
 }
 
 .grid-container {
